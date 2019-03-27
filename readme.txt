@@ -19,3 +19,4 @@ readme.txt文件第八次修改
 
 readme.txt文件第九次修改
 
+在 issue-101上修复了一个bug
